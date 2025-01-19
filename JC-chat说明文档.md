@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href='#用户版'>
-  <img src=".\images\Nextchat.png" alt="icon"/>
+  <img src="images\JC-Chat.jpg" alt="icon"/>
 </a>
 
 <h1 align="center">JC-Chat</h1>
