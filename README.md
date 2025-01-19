@@ -1,6 +1,6 @@
-# 基于Python的多功能GPT-Web网页
+# 基于Python的多功能Char-Web网页
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)Char
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0.1-green.svg)
 
