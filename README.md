@@ -1,4 +1,4 @@
-# 基于Python的多功能Char-Web网页
+# 基于Python的多功能Chat-Web网页
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)Char
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
