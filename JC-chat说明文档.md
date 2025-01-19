@@ -8,7 +8,7 @@
 
 基于 Openai API 开发的多模型在线智能对话系统，支持代码实时生成运行预览，多场景功能
 
-[JC-Chat](http://121.40.99.140:5000/) / [用户版](#%E7%94%A8%E6%88%B7%E5%AE%9A%E5%88%B6%E7%89%88) / [演示 Demo](http://121.40.99.140:5000/index.html) / [反馈 Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) 
+[JC-Chat](http://121.40.99.140:5000/) / [用户版](#%E7%94%A8%E6%88%B7%E5%AE%9A%E5%88%B6%E7%89%88) / [演示 Demo](http://121.40.99.140:5000/index.html) / [反馈 Issues](https://github.com/chuanchuan123321/JC-chat/issues)) 
 
 [<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](http://121.40.99.140:5000/)
 
