@@ -27,7 +27,7 @@
 
 用户定制版咨询: **3107672127@qq.com**
 
-<img width="300" src=".\images\my card.jpg">
+<img width="300" src=".\images\ynr card.jpg">
 
 ## 开始使用
 
