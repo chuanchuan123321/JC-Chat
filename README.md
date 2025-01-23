@@ -82,7 +82,8 @@
      - GPT 4o  
      - GPT 4o mini  
      - Openai o1  
-     - DeepSeek-V3 模型  
+     - DeepSeek-V3 模型
+     - DeepSeek-R1 模型 
 
 2. **功能按钮**  
    - **工具箱**：提供辅助功能（如翻译、计算等）。  
