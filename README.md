@@ -27,7 +27,7 @@
 
 用户定制版咨询: **3107672127@qq.com**
 
-<img width="300" src=".\images\ynr card.jpg">
+<img width="300" src=".\images\my card.jpg">
 
 ## 开始使用
 
@@ -82,8 +82,7 @@
      - GPT 4o  
      - GPT 4o mini  
      - Openai o1  
-     - DeepSeek-V3 模型
-     - DeepSeek-R1 模型 
+     - DeepSeek-V3 模型  
 
 2. **功能按钮**  
    - **工具箱**：提供辅助功能（如翻译、计算等）。  
@@ -204,6 +203,46 @@
    python app.py
    ```
 4. 访问应用: 打开浏览器，访问 http://localhost:5000。
+5. <div align="center">
+
+## 获取API密钥
+
+</div>
+
+### 1. 通义千问（阿里云灵积）
+**适用模型**：通义千问系列  
+**获取步骤**：
+1. 访问[阿里云官网](https://www.aliyun.com/)并注册/登录账号
+2. 进入[灵积控制台](https://dashscope.console.aliyun.com/)
+3. 在「模型服务」中选择「通义千问」系列模型
+4. 点击「创建API密钥」生成`api_key`
+5. 在「配额管理」中申请所需模型的调用权限
+
+> **注意**：需完成企业实名认证才能开通服务，个人开发者可申请体验版
+
+### 2. OpenAI（GPT系列）
+**适用模型**：GPT-4o/GPT-4o mini 等  
+**获取步骤**：
+1. 登录[OpenAI平台](https://platform.openai.com/)
+2. 点击右上角头像选择「View API keys」
+3. 点击「Create new secret key」生成密钥
+4. 复制保存`OPENAI_API_KEY`（密钥仅显示一次）
+
+> **提示**：新账号需先购买API额度，支持绑定海外信用卡或通过[WildCard](https://bewildcard.com/i/CHUAN)开通虚拟卡
+
+### 3. DeepSeek
+**适用模型**：DeepSeek-V3/R1  
+**获取步骤**：
+1. 访问[深度求索官网](https://platform.deepseek.com/)
+2. 注册并完成开发者认证
+3. 进入「API密钥管理」页面
+4. 选择「创建新密钥」生成`DEEPSEEK_API_KEY`
+5. 在「模型权限」中开通目标模型的使用权限
+
+
+
+
+
 
 ## 🛠️ 技术栈
 
