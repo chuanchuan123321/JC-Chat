@@ -40,7 +40,7 @@
 
 <div align="center">
    
-<img width="600" src="./images/login.png" alt="登录界面">
+<img width="600" src="./images/login2.png" alt="登录界面">
 
 </div>
 
